@@ -24,3 +24,13 @@ if(x < 7) {
 } else {
     console.log("maior ou igual a 7")
 }
+
+let c = 5
+while(c < 10) {
+    console.log("oi");
+    c++
+}
+
+for(let x=5; x<10; x++) {
+    console.log("tchau")
+}
