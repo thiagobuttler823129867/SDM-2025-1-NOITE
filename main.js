@@ -12,3 +12,15 @@ console.log("oi " + x)
 let texto = "123"
 let num = parseInt(texto)
 console.log(num+x)
+
+let a = 7
+let texto1 = "23"
+let num1 = parseInt(texto1)
+console.log("num: ", num1);
+
+let b = 8
+if(x < 7) {
+    console.log("menor que 7")
+} else {
+    console.log("maior ou igual a 7")
+}
