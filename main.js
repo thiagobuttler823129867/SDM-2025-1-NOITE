@@ -8,7 +8,7 @@ console.log(y)
 
 console.log("oi " + x)
 
-"Conversão de tipos de dados"
+// Conversão de tipos de dados
 let texto = "123"
 let num = parseInt(texto)
 console.log(num+x)
@@ -34,3 +34,12 @@ while(c < 10) {
 for(let x=5; x<10; x++) {
     console.log("tchau")
 }
+
+// STRINGS
+let nome = "Maria"
+let idade = 25
+let texto2 = 'oi '+nome+' voce tem '+idade+' anos'
+
+console.log(texto2)
+
+let texto3 = 'oi ${nome} você tem ${idade}' 
