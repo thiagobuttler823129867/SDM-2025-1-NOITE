@@ -43,3 +43,21 @@ let texto2 = 'oi '+nome+' voce tem '+idade+' anos'
 console.log(texto2)
 
 let texto3 = 'oi ${nome} você tem ${idade}' 
+
+// String no java script são objetos
+console.log(texto2.length)
+
+// VETORES (ARRAYS)
+let vet = []
+console.log(vet)
+
+let vet1 = [20, 26]
+console.log(vet1)
+
+console.log(vet1[0])
+
+let fechado = true
+
+let vet2 = [23, "oi", 54, false]
+vet2.push(67)
+console.log(vet2);
