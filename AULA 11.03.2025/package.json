@@ -1,0 +1,15 @@
+{
+  "name": "aula-11.03.2025",
+  "version": "1.0.0",
+  "description": "Documento elaborado em aula",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Buttler",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
